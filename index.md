@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+## Ashton Boyer's First CS193 Homework!!!!!!!!!!!!
 
+
+(I'm keeping this stuff because it seems useful)
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -9,19 +11,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# My Favorite things about CS (:
 
-# Header 1
-## Header 2
-### Header 3
+- It allows for a lot of creativity and experimentation 
+- I can do everything while sitting in my room 
+- I like learning more about how computers function 
+- It feels really cool to make a working program 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**wow** and _sideways_ and `green` text
 
 [Link](url) and ![Image](src)
 ```
